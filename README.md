@@ -29,8 +29,7 @@
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=gruvbox)
 
 <details>
-  <sumary><h3>Caio's coding Journey</h3></sumary>
-  This is a test
+  <summary><h3>Caio's coding Journey</h3></summary>
 </details>
          
 
