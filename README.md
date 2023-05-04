@@ -8,7 +8,7 @@
   looking up to learn more about the Back-End and become a full stack developer.
 </p>
 
-###
+#
 
 ### Languages and Tools
 <img align="left" alt="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
