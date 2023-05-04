@@ -26,6 +26,7 @@
 <img align="left" alt="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 #
+<br>
 
 ### 📊 Statistics
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=dracula)
