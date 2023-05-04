@@ -28,7 +28,7 @@
 ### 📊 Statistics
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=gruvbox)
 
-<details align="center">
+<details align="left">
   <summary><h3>💻 Caio's coding Journey</h3></summary>
   I've started coding since 2021, that was when I began my Software Engineering Journey. At the beginning, it was actually pretty difficult,
   since I didn't have any base at programming. So, the college began and at first, I learned Python on the first semester, the basics of
