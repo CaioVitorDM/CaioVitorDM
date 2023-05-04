@@ -27,7 +27,7 @@
 #
 
 ### 📊 Statistics
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=gruvbox)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=highcontrast)
 
 #
 
