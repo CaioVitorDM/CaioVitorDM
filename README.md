@@ -1,4 +1,5 @@
-### Welcome, Padawan! 🔧
+### 🔧 Welcome, Padawan, I'm Caio!
+
 
 <h2> About me 👔 </h2>
 
@@ -8,5 +9,7 @@
 </p>
 
 ###
+
+### Languages
 
 
