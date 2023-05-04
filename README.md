@@ -1,6 +1,6 @@
 # Welcome, Padawan, I'm Caio 🔧 
 
-**`Middle Web Dev / Student / Padawan`**
+**`Digital Craftsman / Student / Padawan`**
 <h3> About me 👔 </h3>
 
 <p> I'm a Software Engineering student at UFRN, I'm also a Dev Front-End Intern at Justiça Federal do Rio Grande do Norte (JFRN).
