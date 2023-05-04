@@ -30,11 +30,13 @@
 
 <details align="left">
   <summary><h3>💻 Caio's coding Journey</h3></summary>
-  I've started coding since 2021, that was when I began my Software Engineering Journey. At the beginning, it was actually pretty difficult, since I didn't have any base at programming. So, the college began and at first, I learned Python on the first semester, the basics of programming like variables declaration, functions, etc. Then, I learned C, with C came memory management, structs, vectors, etc. And then came the great breakthrough, C++ changed my whole life as programmer, it was when I first met OOP and fell in love with it, with C++ I developed even more my developers skills, working with OOP, data structures, librarys and started developing my firsts projects.
+  I've started coding since 2021, that was when I began my Software Engineering Journey. At the beginning, it was actually pretty difficult, since I didn't have any base at programming. So, the college began and at first, I learned Python on the first semester, the basics of programming like variables declaration, functions, etc. Then, I learned C, with C came memory management, structs, vectors, etc. And then came the great breakthrough, C++ changed my whole life as programmer, it was when I first met OOP and fell in love with it, with C++ I developed even more my developers skills, working with OOP, data structures, librarys and started developing my firsts projects. At the middle time of all of this, I've also developed projects using IoT tools, such as ESP32 and Raspberry PI, some of them using NodeRED.
   <br>
   <br>
-  In 2022, I was accepted in a Dev Internship at Justiça Federal do Rio Grande do Norte. There, I started learning Angular, HTML5, JavaScript, Java,    
-  Typescript, CSS and got better at my Git Versioning.
+  In 2022, I was accepted in a Dev Internship at Justiça Federal do Rio Grande do Norte. There, I started learning Angular, HTML5, JavaScript, Java,     Typescript, CSS and got better at my Git Versioning. And then, at 2023 I started studying Java at college, for a class called "Programming Language 2", working more with classes creation, packages, class methods, abstract classes, interfaces, etc.
+  <br>
+  <br>
+  It hasn't been an easy journey, since I didn't know a single thing about programming two years ago. But that's the padawan journey, right? We train and get better until we're good enough, that's my goal.
   
 </details>
          
