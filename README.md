@@ -7,6 +7,7 @@
   I've been studying programming for the last two and a half years, and can say for sure I'm fascinated by Web Development, and
   looking up to learn more about the Back-End and become a full stack developer.
 </p>
+
 #
 
 ### Languages and Tools
