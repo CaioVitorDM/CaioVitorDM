@@ -25,11 +25,12 @@
 
 #
 
-### Statistics
+### 📊 Statistics
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=gruvbox)
 
 <details>
-  <summary><h3>Caio's coding Journey</h3></summary>
+  <summary><h3> 💻 Caio's coding Journey</h3></summary>
   This is a test
+</details>
          
 
