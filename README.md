@@ -1,4 +1,4 @@
-# Welcome, Padawan, I'm Caio <img align="left" alt="Java" width="20px" style="padding-right: 10px;" src="https://icons8.com/icon/39422/lightsaber">
+# Welcome, Padawan, I'm Caio 
 
 **`Digital Craftsman / Student / Jedi`**
 <h3> About me 👔 </h3>
@@ -23,6 +23,7 @@
 <img align="left" alt="C" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Java" width="20px" style="padding-right: 10px;" src="https://icons8.com/icon/39422/lightsaber">
 <br>
 <br>
 
