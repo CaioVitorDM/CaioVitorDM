@@ -1,4 +1,4 @@
-# Welcome, Padawan, I'm Caio <img align="center" alt="Linux" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/null/lightsaber.png"/>
+# Welcome, Padawan, I'm Caio <img align="center" alt="Linux" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/color/96/null/lightsaber.png"/>
 
 **`Digital Craftsman / Student / Jedi`**
 <h3> About me 👔 </h3>
