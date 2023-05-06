@@ -47,5 +47,7 @@
   It hasn't been an easy journey, since I didn't know a single thing about programming two years ago. But that's the padawan journey, right? We train and get better until we're good enough, that's my goal.
   
 </details>
+
+<img src="spider-banner.png">
          
 
