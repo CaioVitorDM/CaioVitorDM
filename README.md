@@ -31,7 +31,7 @@
 
 
 ### 📊 Statistics
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=dracula)
+![Caio's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=dracula)
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVitorDM&layout=compact&theme=dracula">
 
 #
