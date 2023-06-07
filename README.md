@@ -7,7 +7,6 @@
   I'm a Software Engineering student at UFRN, I'm also a Dev Front-End Intern at Justiça Federal do Rio Grande do Norte (JFRN). I've been studying programming for the last two and a half years, and can say for sure I'm fascinated by Web Development, and looking up to learn more about the Back-End to become a full stack developer.
 </p>
 
-[Jogar o Meu Jogo](https://caiovitordm.github.io/Super-Mario-Jump/index.html)
 
 #
 
@@ -39,6 +38,13 @@
 
 
 #
+
+### 🔗 My hosted Applications links
+[Super Mario Jump](https://caiovitordm.github.io/Super-Mario-Jump/index.html)
+[Music Player App](https://caiovitordm.github.io/Music-Player-App/index.html)
+[Movie Guide App](https://caiovitordm.github.io/Movie-Guide-App/Movie%20Guide%20App/index.html)
+[Weather App](https://caiovitordm.github.io/Weather-App/Weather%20app/index.html)
+[Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)
 
 <details align="left">
   <summary><h3>💻 My coding Journey</h3></summary>
