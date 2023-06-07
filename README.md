@@ -28,6 +28,14 @@
 <br>
 
 #
+### 🔗 My hosted Applications links
+[Super Mario Jump](https://caiovitordm.github.io/Super-Mario-Jump/index.html)<br>
+[Music Player App](https://caiovitordm.github.io/Music-Player-App/index.html)<br>
+[Movie Guide App](https://caiovitordm.github.io/Movie-Guide-App/Movie%20Guide%20App/index.html)<br>
+[Weather App](https://caiovitordm.github.io/Weather-App/Weather%20app/index.html)<br>
+[Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)
+
+#
 
 
 
@@ -38,13 +46,6 @@
 
 
 #
-
-### 🔗 My hosted Applications links
-[Super Mario Jump](https://caiovitordm.github.io/Super-Mario-Jump/index.html)<br>
-[Music Player App](https://caiovitordm.github.io/Music-Player-App/index.html)<br>
-[Movie Guide App](https://caiovitordm.github.io/Movie-Guide-App/Movie%20Guide%20App/index.html)<br>
-[Weather App](https://caiovitordm.github.io/Weather-App/Weather%20app/index.html)<br>
-[Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)
 
 <details align="left">
   <summary><h3>💻 My coding Journey</h3></summary>
