@@ -40,7 +40,7 @@
 
 
 ### 📊 Statistics
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVitorDM&layout=compact&theme=light">
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVitorDM&layout=compact&theme=dracula">
 
 ![Caio's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CaioVitorDM&show_icons=true&theme=dracula)
 
