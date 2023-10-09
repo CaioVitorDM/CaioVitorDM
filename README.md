@@ -29,7 +29,9 @@
 <img align="left" alt="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <br>
 
 #
+
 ### 🔗 My hosted Applications links
+
 [Super Mario Jump](https://caiovitordm.github.io/Super-Mario-Jump/index.html)<br>
 [Music Player App](https://caiovitordm.github.io/Music-Player-App/index.html)<br>
 [Movie Guide App](https://caiovitordm.github.io/Movie-Guide-App/Movie%20Guide%20App/index.html)<br>
