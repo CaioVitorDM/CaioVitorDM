@@ -23,8 +23,8 @@
 [Music Player App](https://caiovitordm.github.io/Music-Player-App/index.html)<br>
 [Movie Guide App](https://caiovitordm.github.io/Movie-Guide-App/Movie%20Guide%20App/index.html)<br>
 [Weather App](https://caiovitordm.github.io/Weather-App/Weather%20app/index.html)<br>
-[Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)
-[To-Do List](https://caiovitordm.github.io/To-Do-List/login-page/login-page.html)<br>
+[Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)<br>
+[To-Do List](https://caiovitordm.github.io/To-Do-List/login-page/login-page.html)
 
 #
 
