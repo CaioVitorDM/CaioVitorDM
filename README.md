@@ -45,10 +45,16 @@
   I started coding since 2021, that was when I began my Software Engineering Journey. At the beginning, it was actually pretty difficult, since I didn't have any base at programming. So, the college began and at first, I learned Python on the first semester, the basics of programming like variables declaration, functions, etc. Then, I learned C, with C came memory management, structs, vectors, etc. And then came the great breakthrough, C++ changed my whole life as programmer, it was when I first met OOP and fell in love with it, with C++ I increased even more my developer's skills, working with OOP, data structures, librarys and started developing my first projects. In the middle time of all of this, I've also developed projects using IoT tools, such as ESP32 and Raspberry PI, some of them using NodeRED.
   <br>
   <br>
-  In 2022, I was accepted in a Dev Internship at Justiça Federal do Rio Grande do Norte. There, I started learning Angular, HTML5, JavaScript, Java, Typescript, CSS and got better at my Git Versioning. And then, at 2023 I started studying Java at college, for a class called "Programming Language 2", working more with classes creation, packages, class methods, abstract classes, interfaces, etc. And at that class, I build my first Java and JavaFX application, you can find it at my repositories page, it's called "Media Player App".
+  In 2022, I was accepted in a Dev Internship at Justiça Federal do Rio Grande do Norte. There, I started learning Angular, Spring, JavaScript, Java, Typescript, Docker and got better at my Git Versioning. And then, at 2023 I started studying Java at college, for a class called "Programming Language 2", working more with classes creation, packages, class methods, abstract classes, interfaces, etc. And at that class, I build my first Java and JavaFX application, you can find it at my repositories page, it's called "Media Player App".
   <br>
   <br>
-  It hasn't been an easy journey, since I didn't know a single thing about programming two years ago. But that's the padawan journey, right? We train and get better until we're good enough, that's my goal.
+  In 2023, i started studying more about the specifics about software engineering, design and projects patterns, documentations, all kinds of diagrams, and started building full stack applications for my college classes. I build a full stack application using SpringBoot and Angular, the repository name is Biblicron. And then, turned that application into a framework, the repository name is Loan Management Framework, both of those for a class called Software Detaleid Process. Also builded the most common project of all, a To-Do list, you can find the link to it at my Hosted Applications on my profile.
+  <br>
+  <br>
+  In 2024, I left my internship with 1 year and 3 months of experience, because I got accepted at a job at Digital Metropole Institute to work developing a project called the "Acer Seller Center", a plataform for sellers to sell their products on Acer Store. I joined as Junior Developer, I got the chance also to learn more about Testing Software and got even better at my communication skills.
+  <br>
+  <br>
+  Hope you like my projects :) Feel free to look and learn from everything I've done.
   </p>
 </details>
 
