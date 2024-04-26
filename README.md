@@ -4,7 +4,7 @@
 <h3> About me 👔 </h3>
 
 <p style="text-align: justify">
-  I'm a Software Engineering student at UFRN, I'm also a Full Stack Dev Intern at Justiça Federal do Rio Grande do Norte (JFRN). I've been studying programming for the last three years, and can say for sure I'm fascinated by Web Development, and looking up to become a well estabilished Full-Stack Web Developer.
+  I'm a Software Engineering student at UFRN, I'm also a Full Stack Dev Jr At Digital Metropole Institute. I've been studying programming for the last three years, and can say for sure I'm fascinated by web and games development, and looking up to become a well estabilished Full-Stack Dev.
 </p>
 
 
