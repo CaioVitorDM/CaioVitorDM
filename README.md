@@ -19,6 +19,7 @@
 
 ### 🔗 My hosted Applications links
 
+[My personal and projects portfolio](https://caiovitordm.github.io/Portfolio-Page/)<br>
 [Super Mario Jump](https://caiovitordm.github.io/Super-Mario-Jump/index.html)<br>
 [Music Player App](https://caiovitordm.github.io/Music-Player-App/index.html)<br>
 [Movie Guide App](https://caiovitordm.github.io/Movie-Guide-App/Movie%20Guide%20App/index.html)<br>
@@ -26,7 +27,6 @@
 [Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)<br>
 [To-Do List](https://caiovitordm.github.io/To-Do-List-FrontEnd/login-page/login-page.html)<br>
 [Entre Alfinetes Portfolio (Brand Portfolio)](https://caiovitordm.github.io/EntreAlfinetes-Portfolio/landing.html)
-[My personal and projects portfolio](https://caiovitordm.github.io/Portfolio-Page/)
 
 #
 
