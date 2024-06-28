@@ -26,6 +26,7 @@
 [Crypto Price App](https://caiovitordm.github.io/Crypto-Price-App/Crypto%20Price%20App/index.html)<br>
 [To-Do List](https://caiovitordm.github.io/To-Do-List-FrontEnd/login-page/login-page.html)<br>
 [Entre Alfinetes Portfolio (Brand Portfolio)](https://caiovitordm.github.io/EntreAlfinetes-Portfolio/landing.html)
+[My personal and projects portfolio](https://caiovitordm.github.io/Portfolio-Page/)
 
 #
 
