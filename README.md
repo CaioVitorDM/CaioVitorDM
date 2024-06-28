@@ -4,7 +4,7 @@
 <h3> About me 👔 </h3>
 
 <p style="text-align: justify">
-  I'm a Software Engineering student at UFRN, I'm also a Full Stack Dev Jr At Digital Metropole Institute. I've been studying programming for the last three years, and can say for sure I'm fascinated by web and games development, and looking up to become a well estabilished Full-Stack Dev.
+  I'm a Software Engineering student at UFRN, I'm also a Full Stack Dev Jr At Digital Metropole Institute. I've been studying programming for the last three years, and can say for sure I'm fascinated by web and games development, and looking up to become a well estabilished Full-Stack Dev. <a href="https://caiovitordm.github.io/Portfolio-Page/">Checkout my portfolio page right here!</a>
 </p>
 
 
